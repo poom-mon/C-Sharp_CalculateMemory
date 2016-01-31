@@ -1,0 +1,9 @@
+D:\Programming\test\console\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calculateMemory.exe
+D:\Programming\test\console\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calculateMemory.pdb
+D:\Programming\test\console\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.csprojResolveAssemblyReference.cache
+D:\Programming\test\console\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.exe
+D:\Programming\test\console\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.pdb
+D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calculateMemory.exe
+D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calculateMemory.pdb
+D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.exe
+D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.pdb
