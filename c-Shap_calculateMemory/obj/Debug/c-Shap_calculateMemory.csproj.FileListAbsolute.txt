@@ -7,3 +7,5 @@ D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calcula
 D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\bin\Debug\c-Shap_calculateMemory.pdb
 D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.exe
 D:\github\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.pdb
+C:\Documents and Settings\sittiporn\Desktop\test_git\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.exe
+C:\Documents and Settings\sittiporn\Desktop\test_git\c-Shap_calculateMemory\c-Shap_calculateMemory\obj\Debug\c-Shap_calculateMemory.pdb

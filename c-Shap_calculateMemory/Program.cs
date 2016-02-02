@@ -14,6 +14,7 @@ namespace c_Shap_calculateMemory
            // PerformanceInfo.Display();
             PerformanceInfo per = new PerformanceInfo(); 
             per.Display();
+
             Console.ReadKey();
             /****** end call performance task manage ****/
         }
